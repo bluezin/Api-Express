@@ -16,6 +16,6 @@ app.use(express.json());
 app.use(require("./routes/index"));
 
 // Iniciando el servidor
-app.listen(3001, () => {
+app.listen(process.env.PORT || 3001, () => {
   console.log("server ...");
 });
