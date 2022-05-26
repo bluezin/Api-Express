@@ -1,7 +1,6 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const bodyParser = require("body-parser");
 // morgan es un middleware, registra las request
 const morgan = require("morgan");
 
