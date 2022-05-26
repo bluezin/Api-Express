@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Pitbull",
+    "other_names": [],
+    "image": "https://images.dog.ceo/breeds/pitbull/IMG_20190826_121528_876.jpg",
+    "description": "El pit bull terrier americano es una raza de perro, originaria de Estados Unidos, que surgió a partir de la raza de los bull-and-terriers, importados desde el Reino Unido en el siglo XIX.​ Su esperanza de vida es de 12 a 17 años.",
+    "region": "Estados Unidos, Reino Unido",
+    "qualities": ["Amigable", "Inteligente", "Payaso", "Determinado", "Cariñoso", "Obstinado", "Obediente", "Leal", "Gentil", "Valiente"],
+    "height": "Hembra: 70–99 cm, Macho: 70-80 cm",
+    "id": 1
+  },
+  {
+    "name": "El Braco alemán",
+    "other_names": [],
+    "description": "El Braco alemán de pelo corto es una raza de perro desarrollada en los años 1800 en Alemania para la caza.",
+    "image": "https://images.dog.ceo/breeds/pointer-germanlonghair/hans2.jpg",
+    "qualities": ["Bullicioso", "Cariñoso", "Inteligente", "Audaz", "Colaborador", "Entrenable"],
+    "height": "Hembra: 53–59 cm, Macho: 58–64 cm",
+    "region": "Alemán",
+    "id": 2
+  },
+  {
+    "name": "Patterdale terrier",
+    "other_names": ["Fell Terrier"],
+    "description": "Es un raza de perro de trabajo, cuyos orígenes se remontan a la localidad de Patterdale en el Distrito de los Lagos",
+    "image": "https://images.dog.ceo/breeds/terrier-patterdale/patterdale-terrier-1330018870tnN.jpg",
+    "height": "25 – 38 cm (Adulto)",
+    "qualities": ["Inteligente", "Inquisitivo", "Amigable", "Energético", "Audaz", "Confiado"],
+    "region": "Inglaterra",
+    "id": 3
+  },
+  {
+    "name": "Airedable",
+    "other_names": ["Waterside Terrier", "Bingley Terrier", "Rey de los Terriers"],
+    "description": "Airedale terrier es una raza de perros grande y fuerte perteneciente al grupo terrier. Es de origen británico, de la región de Yorkshire.",
+    "image": "https://www.animales.website/wp-content/uploads/2019/01/Airedale-terrier.jpg",
+    "height": "Hembra: 56–59 cm, Macho: 58–61 cm",
+    "qualities": ["Inteligente", "Extrovertido", "Amigable", "Alerta", "Confiado", "Valiente"],
+    "region": "Inglaterra",
+    "id": 4
+  },
+  {
+    "name": "Pinscher miniatura",
+    "description": "Spider-Man, traducido en ocasiones como El Hombre Araña, ​​es un personaje creado por los estadounidenses Stan Lee y Steve Ditko, ​​e introducido en el cómic Amazing Fantasy n.° 15, publicado por Marvel Comics en agosto de 1962.​",
+    "image": "https://www.pethealthnetwork.com/sites/default/files/styles/large/public/miniature-pinscher178474728.png",
+    "qualities": ["Listo", "Juguetón", "Asertivo", "Extrovertido", "Amigable", "Energético", "Receptivo", "Independiente", "Activo"],
+    "height": "Macho: 25–30 cm, Hembra: 25–28 cm",
+    "other_names": [],
+    "region": "Alemán",
+    "id": 5
+  },
+  {
+    "name": "Irish soft coated wheaten terrier",
+    "description": "El Irish Soft Coated Wheaten Terrier es una raza de perro originaria de Irlanda. Hay cuatro variedades: tradicional irlandesa, pesada irlandesa, inglesa y estadounidense.",
+    "image": "https://images.dog.ceo/breeds/terrier-wheaten/n02098105_3265.jpg",
+    "qualities": ["Inteligente", "Energético", "Cariñoso", "Enérgico", "Juguetón", "Fiel"],
+    "height": "Macho: 46–48 cm, Hembra: 43–46 cm",
+    "region": "Irlanda",
+    "other_names": ["Canis lupus familiaris"],
+    "id": 6
+  },
+  {
+    "name": "Affenpinscher",
+    "description": "Affenpinscher es una raza de perro de la familia de los pinschers de constitución pequeña y robusta, criada desde el siglo XVII. Su pelaje es erizado, comúnmente negro y corto, lo que le da una apariencia simiesca, de allí el nombre de la raza.",
+    "image": "https://images.dog.ceo/breeds/affenpinscher/n02110627_11798.jpg",
+    "qualities": ["Curioso", "Fun-loving", "Juguetón", "Obstinado", "Activo", "Adventurous"],
+    "height": "23 – 30 cm (Adulto, A la cruz)",
+    "region": "Alemania, Francia",
+    "other_names": ["Canis lupus familiaris"],
+    "id": 7
+  },
+  {
+    "name": "Perro crestado rodesiano",
+    "description": "Crestado rodesiano, comúnmente llamado por su nombre en inglés Rhodesian Ridgeback, hace referencia a una raza de perro de origen sudafricano musculosa, de gran porte, extremadamente ágil y veloz principalmente usado para la caza, guarda y compañía.",
+    "image": "https://images.dog.ceo/breeds/ridgeback-rhodesian/n02087394_7480.jpg",
+    "qualities": ["Sensible", "Digno", "Travieso", "Inteligente", "Determinado", "Leal"],
+    "height": "Hembra: 29–34 cm, Macho: 36–41 cm",
+    "region": "Zimbabue",
+    "other_names": ["African Lion Dog", "African Lion Hound", "Perro Crestado de Rhodesia", "Rhodesiano"],
+    "id": 8
+  },
+  {
+    "name": "Basset hound",
+    "description": "El basset hound es una raza de perro que forma parte del grupo de los sabuesos. Es de baja altura de cruz, cuerpo largo, patas cortas y fuertes, largas orejas y un sentido del olfato extremadamente desarrollado.",
+    "image": "https://images.dog.ceo/breeds/hound-basset/n02088238_11124.jpg",
+    "qualities": ["Sensible", "Digno", "Travieso", "Inteligente", "Determinado", "Leal"],
+    "height": "Hembra: 29–34 cm, Macho: 36–41 cm",
+    "region": "Francia",
+    "other_names": ["Afable", "Tenaz", "Amigable","Devoto", "Cariñoso", "Gentil"],
+    "id": 9
+  },
+  {
+    "name": "Pastor ganadero australiano",
+    "description": "El perro ganadero australiano es un perro boyero originario de Australia. En comparación con otras razas su historia está muy bien documentada, pues es relativamente reciente.",
+    "image": "https://images.dog.ceo/breeds/cattledog-australian/IMG_7057.jpg",
+    "qualities": ["Cauteloso", "Energético", "Obediente", "Leal", "Protector", "Valiente"],
+    "height": "Macho: 46–51 cm, Hembra: 43–48 cm",
+    "region": "Australia",
+    "other_names": ["Canis lupus familiaris"],
+    "id": 10
+  },
+  {
+    "name": "Cuon alpinus",
+    "description": "El cuon, dole, perro rojo, perro jaro, perro salvaje asiático o perro salvaje indio es una especie de mamífero carnívoro de la familia Canidae.",
+    "image": "https://images.dog.ceo/breeds/dhole/n02115913_1213.jpg",
+    "qualities": [],
+    "height": "Hembra: 29–34 cm, Macho: 36–41 cm",
+    "region": "Francia",
+    "other_names": ["Cuon alpinus"],
+    "id": 11
+  },
+  {
+    "name": "Staffordshire Bull Terrier o Staffy",
+    "description": "El Staffordshire Bull Terrier o Staffy es una raza de perro originaria del Reino Unido, con más de 200 años de antigüedad, creada a partir de cruces de los antiguos Bulldog inglés y Terriers.",
+    "image": "https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_5936.jpg",
+    "qualities": ["Sensible", "Digno", "Travieso", "Inteligente", "Determinado", "Leal"],
+    "height": "Hembra: 29–34 cm, Macho: 36–41 cm",
+    "region": "Inglaterra",
+    "other_names": ["Staffy", "Stafford Inglés", "Stafford"],
+    "id": 12
+  },
+  {
+    "name": "El Cairn terrier",
+    "description": "El Cairn terrier es uno de los terrier escoceses más antiguos originarios de las Tierras Altas de Escocia. Reconocido como uno de los primeros perros de trabajo que se utilizaba para la caza y presa de las madrigueras entre las cordilleras.",
+    "image":  "https://images.dog.ceo/breeds/terrier-cairn/n02096177_4.jpg",
+    "qualities": ["Fun-loving", "Energético", "Amigable", "Ágil", "Valiente"],
+    "height": "Macho: 25–33 cm, Hembra: 23–30 cm",
+    "region": "Escocia, Tierras Altas de Escocia",
+    "other_names": ["Canis lupus familiaris"],
+    "id": 13
+  },
+  {
+    "name": "El pastor belga groenendael",
+    "description": "El pastor belga groenendael es una raza canina originaria de Bélgica. Es, también, una de las cuatro variedades en las que se divide el pastor belga. Los cuales son: malinois, tervouren y laekenois.",
+    "image": "https://images.dog.ceo/breeds/groenendael/n02105056_4640.jpg",
+    "qualities": ["Fun-loving", "Energético", "Amigable", "Ágil", "Valiente"],
+    "height": "Hembra: 41–45 cm, Macho: 43–47 cm",
+    "region": "Bélgica",
+    "other_names": ["Belgian Sheepdog", "Chien de Berger Belge", "Pastor belga Groenendaeler"],
+    "id": 14
+  },
+  {
+    "name": "El Dandie Dinmont",
+    "description": "El Dandie Dinmont es un perro perteneciente al grupo de los terriers, originario de Escocia. Uno de los personaje de la novela Guy Mannering escrita por Sir Walter Scott en 1815, dio el nombre a la raza.",
+    "image": "https://images.dog.ceo/breeds/terrier-dandie/n02096437_2224.jpg",
+    "qualities": ["Fun-loving", "Energético", "Amigable", "Ágil", "Valiente"],
+    "height": "20 – 28 cm (Adulto)",
+    "region": "Escocia",
+    "other_names": ["Canis lupus familiaris"],
+    "id": 15
+  },
+  {
+    "name": "Leonberger",
+    "description": "El leonberger es una raza de perro alemana originaria de la ciudad de Leonberg. Moloso de pelo largo y color pardo, esta raza se deriva de cruces de razas de gran tamaño como el San Bernardo o el Gran Pirineo, producidas a principios del siglo XIX.",
+    "image": "https://images.dog.ceo/breeds/leonberg/n02111129_2218.jpg",
+    "qualities": ["Intrépido", "Obediente", "Leal", "Sociable", "Amoroso", "Adaptable"],
+    "height": " Hembra: 65–75 cm, Macho: 72–80 cm",
+    "region": "Alemania",
+    "other_names": ["Canis lupus familiaris"],
+    "id": 16
+  },
+  {
+    "name": "Pequeño Brabanzón",
+    "description": "Los perros petit brabançon son unos pequeños con mucho en común con el grifón belga y el grifón de Bruselas. De hecho, algunas asociaciones cinológicas aún siguen considerándolos una misma raza.",
+    "image": "https://images.dog.ceo/breeds/brabancon/n02112706_106.jpg",
+    "qualities": ["Fun-loving", "Energético", "Amigable", "Ágil", "Valiente"],
+    "height": "Hembra: 41–45 cm, Macho: 43–47 cm",
+    "region": "Noruega",
+    "other_names": ["Canis lupus familiaris"],
+    "id": 17
+  },
+  {
+    "name": "Perro sedoso de la Habana",
+    "description": "El Bichón Habanero o Habanés es una raza canina pequeña y de compañía y es el perro nacional de Cuba. Es reconocido por su pelaje sedoso y fino, además de ser un perro alegre y activo.",
+    "image": "https://images.dog.ceo/breeds/havanese/00100trPORTRAIT_00100_BURST20191222103956878_COVER.jpg",
+    "qualities": ["Juguetón", "Cariñoso", "Inteligente", "Receptivo", "Sociable", "Gentil"],
+    "height": "23 – 27 cm (Adulto)",
+    "region": "Cuba",
+    "other_names": ["Canis lupus familiaris"],
+    "id": 18
+  },
+  {
+    "name": "Retriever de pelo rizado",
+    "description": "Es una raza de perro de caza, originario de Inglaterra y utilizado como cobrador de presas.",
+    "image": "https://images.dog.ceo/breeds/retriever-curly/n02099429_2756.jpg",
+    "qualities": ["Inteligente", "Listo", "Vivaz", "Independiente", "Sensible", "Entrenable"],
+    "height": "Macho: 64–69 cm, Hembra: 58–64 cm",
+    "region": "Reino Unido, Inglaterra",
+    "other_names": ["Canis lupus familiaris"],
+    "id": 19
+  },
+  {
+    "name": "Poodle estándar",
+    "description": "Su pelo es rizado y se necesitan de los mejores cuidados. Podrás encontrar a los poodle en colores blanco, negro, café, gris e incluso combinaciones de alguno de estos colores.",
+    "image": "https://images.dog.ceo/breeds/poodle-standard/n02113799_419.jpg",
+    "qualities": ["Fun-loving", "Energético", "Amigable", "Ágil", "Valiente"],
+    "height": "45 – 60 cm (Adulto)",
+    "region": "París",
+    "other_names": ["Canis lupus familiaris"],
+    "id": 20
+  }
+]
